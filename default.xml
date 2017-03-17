@@ -29,6 +29,8 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
   <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" />
+  <project path="device/asus/flo" name="mortenmhp/android_device_asus_flo" groups="device,flo" remote="github" />
+  <project path="device/asus/flo-kernel" name="mortenmhp/android_device_asus_flo-kernel" groups="device,flo" clone-depth="1" remote="github" />
   <project path="device/asus/fugu" name="device/asus/fugu" groups="device,fugu,broadcom_pdk" />
   <project path="device/asus/fugu-kernel" name="device/asus/fugu-kernel" groups="device,fugu,broadcom_pdk" clone-depth="1" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" />
