@@ -2,7 +2,8 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".." />
+           fetch=".." 
+           revision="refs/tags/mortenmhp-android-7.1.1_r28_1" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
